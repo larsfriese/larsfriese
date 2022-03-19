@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, im Lars 👋
+
+Im programming machine learning applications as well as physics simulations in python and minecraft server plugins in java.
+I also do YT videos from time to time.
+
+[Spigot Profile](https://www.spigotmc.org/members/masterx12377.1481119/)
+[YT Channel](https://www.youtube.com/channel/UCJ95Q483a7GzTNrw2hnICUw/videos)
 
 <!--
 **larsfriese/larsfriese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
