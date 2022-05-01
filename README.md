@@ -9,6 +9,8 @@ Profiles:<br>
 <br>
 Projects:<br>
 ▶ [Planetary Simulator](https://github.com/larsfriese/vpython-astrophysics)<br>
+▶ [Feature Importance in a Neural Network](https://github.com/larsfriese/ml_scripts/blob/main/tensorflow_scripts/analysis_number_to_binary.ipynb)<br>
+▶ [Predicting Football games with a Neural Network]
 
 <!--
 **larsfriese/larsfriese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
