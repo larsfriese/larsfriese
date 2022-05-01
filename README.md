@@ -5,7 +5,7 @@ and minecraft server plugins in java. I also do YT videos from time to time.<br>
 <br>
 Profiles:<br>
 ▶ [YT Channel](https://www.youtube.com/channel/UCJ95Q483a7GzTNrw2hnICUw/videos)<br>
-▶ [Spigot Profile](https://www.spigotmc.org/members/masterx12377.1481119/)<br>
+▶ [Spigot Profile](https://www.spigotmc.org/members/masterx12377.1481119/#resources)<br>
 <br>
 Projects:<br>
 ▶ [Planetary Simulator](https://github.com/larsfriese/vpython-astrophysics)<br>
