@@ -3,7 +3,6 @@
 Im programming machine learning applications as well as physics simulations in python<br>
 and minecraft server plugins in java. I also do YT videos from time to time.<br>
 <br>
-
 Projects:<br>
 - [Planetary Simulator](https://github.com/larsfriese/vpython-astrophysics)<br>
 - [Feature Importance in a Neural Network](https://github.com/larsfriese/ml_scripts/blob/main/tensorflow_scripts/analysis_number_to_binary.ipynb)<br>
